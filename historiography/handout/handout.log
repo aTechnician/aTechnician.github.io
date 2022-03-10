@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=latex 2021.12.17)  10 MAR 2022 13:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=latex 2021.12.17)  10 MAR 2022 14:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -329,14 +329,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 LaTeX Warning: No \author given.
 
-[3] [4] (./handout.aux) ) 
+[3] [4] [5] [6] (./handout.aux) ) 
 Here is how much of TeX's memory you used:
- 3780 strings out of 478354
- 44665 string characters out of 5848111
- 469144 words of memory out of 5000000
- 21917 multiletter control sequences out of 15000+600000
- 407919 words of font info for 42 fonts, out of 8000000 for 9000
+ 3815 strings out of 478354
+ 45162 string characters out of 5848111
+ 469207 words of memory out of 5000000
+ 21953 multiletter control sequences out of 15000+600000
+ 407880 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,6n,42p,790b,522s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on handout.dvi (4 pages, 12300 bytes).
+Output written on handout.dvi (6 pages, 15616 bytes).
