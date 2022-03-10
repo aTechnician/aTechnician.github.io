@@ -1,0 +1,33 @@
+body {
+	font-family: "noto Sans", sans-serif;
+	font-size: 16px;
+	line-height: 1.4375;
+	color: #333;
+	background-color: #fff;
+	margin: 0vw 20vw;
+}
+
+h1{
+	font-size: 1.9em;
+	border-bottom: 1px solid #af3c43;
+	margin-bottom .2em;
+	margin-top: 1em;
+	padding-bottom: .2em;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: Lato, sans-serif;
+}
+
+h2 {
+	font-size: 1.8em;
+}
+
+a {
+	color: #284162;
+}
+
+.slide {
+	padding-bottom: 100vh;
+}
+
